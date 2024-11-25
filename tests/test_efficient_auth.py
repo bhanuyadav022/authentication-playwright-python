@@ -1,5 +1,4 @@
 import pytest 
-import time
 from pages.index_page import IndexPage
 from config_manager import load_config
 
